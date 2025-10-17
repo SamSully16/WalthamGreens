@@ -15,27 +15,27 @@ import image5 from "@assets/jsadbiasdbiua_1760672202190.jpg";
 const galleryImages = [
   {
     src: image1,
-    caption: "Front Yard Landscaping – Waltham, MA",
+    caption: "Front Yard Landscaping",
     alt: "Beautiful front yard with lush green lawn and stone driveway",
   },
   {
     src: image2,
-    caption: "Patio Installation – Waltham, MA",
+    caption: "Patio Installation",
     alt: "Custom paver patio with decorative border pattern",
   },
   {
     src: image3,
-    caption: "Outdoor Kitchen & Patio – Waltham, MA",
+    caption: "Outdoor Kitchen & Patio",
     alt: "Stone outdoor kitchen with built-in grills and paver patio",
   },
   {
     src: image4,
-    caption: "Retaining Wall & Landscaping – Waltham, MA",
+    caption: "Retaining Wall & Landscaping",
     alt: "Multi-level stone retaining walls with flowering plants",
   },
   {
     src: image5,
-    caption: "Stone Stairway – Waltham, MA",
+    caption: "Stone Stairway",
     alt: "Custom stone stairway with decorative retaining wall",
   },
 ];
