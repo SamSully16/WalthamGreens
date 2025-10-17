@@ -12,6 +12,16 @@ const reviews = [
     rating: 5,
     review: "In a industry where delays and cost overruns are common, US LANDSCAPING & CONSTRUCTION was a refreshing exception. They provided a clear and detailed quote upfront with no hidden fees. Throughout our patio and garden project, they stuck to the timeline and the budget meticulously. Any minor changes were communicated clearly with updated costs before proceeding. This transparency and integrity mean the world to a homeowner. We ended up with a beautiful outdoor space without any stressful surprises. Thank you for your honesty and reliability!",
   },
+  {
+    name: "Kristen Kimmons",
+    rating: 5,
+    review: "We had a tight timeline to get our landscaping done before a family event, and this company delivered right on time without sacrificing quality. They were communicative, courteous, and delivered a finished product that got compliments all evening.",
+  },
+  {
+    name: "Nadav Azrayev",
+    rating: 5,
+    review: "I recently hired US Landscaping & Construction for a complete overhaul of my yard, and I couldn't be more pleased with the results! From the initial consultation to the final touches, the team was professional, knowledgeable, and truly dedicated to bringing my vision to life.",
+  },
 ];
 
 export default function ReviewsSection() {
