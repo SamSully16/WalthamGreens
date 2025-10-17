@@ -31,6 +31,7 @@ export default function Header({ onGetEstimate }: HeaderProps) {
     { label: "About", id: "about" },
     { label: "Services", id: "services" },
     { label: "Gallery", id: "gallery" },
+    { label: "Reviews", id: "reviews" },
     { label: "Contact", id: "contact" },
   ];
 
