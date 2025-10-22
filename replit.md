@@ -38,8 +38,15 @@ This is a modern, responsive website built with React, TypeScript, and Tailwind 
 
 #### Admin Panel
 - View all contact form submissions at `/admin/submissions`
+- **Password protected** - default password: `admin123` (change in production!)
 - Displays customer name, email, phone, service interest, message, and timestamp
 - Clickable email/phone links for quick contact
+
+**IMPORTANT SECURITY NOTE:** The current password protection is client-side only and uses a hardcoded password. This is acceptable for development/demo but should be replaced with proper server-side authentication for production use. Consider implementing:
+- Environment variable for admin password
+- Server-side authentication middleware
+- Session management
+- Or use a proper auth solution like Replit Auth
 
 ## Technical Details
 
